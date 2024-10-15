@@ -1,1 +1,1 @@
-# janken
+# janken aka Rock Paper Scissors
